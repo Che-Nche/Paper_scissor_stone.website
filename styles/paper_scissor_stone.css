@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(41, 43, 171);
+    color: white;
+    font-family: sans-serif;
+}
+.title{
+    font-size: 25px;
+    font-weight: bold;
+}
+.pap-icon{
+   height: 45px;
+   cursor: pointer;
+   border-radius: 50px;
+}
+.adjust-button{
+    background-color: transparent ;
+    border: 3px solid white;
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+    margin-right: 12px;
+   
+}
+.result{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 40px;
+    border-radius: none;
+}
+.score{
+   margin-top: 50px; 
+
+}
+.reset-score-button{
+    background-color: white;
+    border: none;
+    font-size: 14px;
+    padding: 7px 14px;
+    cursor: pointer;
+}
